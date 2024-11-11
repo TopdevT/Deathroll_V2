@@ -23,3 +23,5 @@ A thrilling command-line game where you test your luck against the numbers! Roll
 - Windows OS
 - MinGW-w64 Compiler
 - C++11 or higher
+
+![alt text](image.png)
